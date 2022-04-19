@@ -1,6 +1,7 @@
 {
   "name": "Package-Demo",
   "repository": "git://github.com/csnyder332/Package-Demo.git",
+  "dependencies": @csnyder332/Package-Demo: "1.0.0",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
